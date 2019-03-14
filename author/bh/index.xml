@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Byung Hoon Cho</title>
+    <link>http://bh-cho.me/author/bh/</link>
+    <description>Recent content on Byung Hoon Cho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 Byung Hoon Cho &amp;middot; All rights reserved</copyright>
+    
+	<atom:link href="http://bh-cho.me/author/bh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

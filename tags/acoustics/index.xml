@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acoustics on Byung Hoon Cho</title>
+    <link>http://bh-cho.me/tags/acoustics/</link>
+    <description>Recent content in Acoustics on Byung Hoon Cho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 Byung Hoon Cho &amp;middot; All rights reserved</copyright>
+    <lastBuildDate>Wed, 09 Nov 2016 17:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="http://bh-cho.me/tags/acoustics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acoustic Lens</title>
+      <link>http://bh-cho.me/project/acoustic-lens/</link>
+      <pubDate>Wed, 09 Nov 2016 17:00:00 +1100</pubDate>
+      
+      <guid>http://bh-cho.me/project/acoustic-lens/</guid>
+      <description>Amplifying signals is an easy way to make sounds louder. However, amplifying and attenuating sounds without extra external energy input is much more difficult. This report tests cheap and efficient devices such as lenses which can be used to amplify or attenuate acoustics passively. Uses for these include targeted alarm clocks and reducing noise pollution in areas of high road traffic.
+The idea for this project originates from previous work done as preparation for a problem in the 2016 International Young Physicists&amp;rsquo; Tournament.</description>
+    </item>
+    
+  </channel>
+</rss>

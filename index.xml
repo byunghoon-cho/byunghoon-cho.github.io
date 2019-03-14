@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Byung Hoon Cho on Byung Hoon Cho</title>
+    <link>http://bh-cho.me/</link>
+    <description>Recent content in Byung Hoon Cho on Byung Hoon Cho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 Byung Hoon Cho &amp;middot; All rights reserved</copyright>
+    <lastBuildDate>Wed, 09 Nov 2016 17:00:00 +1100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Acoustic Lens</title>
+      <link>http://bh-cho.me/project/acoustic-lens/</link>
+      <pubDate>Wed, 09 Nov 2016 17:00:00 +1100</pubDate>
+      
+      <guid>http://bh-cho.me/project/acoustic-lens/</guid>
+      <description>&lt;p&gt;Amplifying signals is an easy way to make sounds louder. However, amplifying and attenuating sounds without extra external energy input is much more difficult. This report tests cheap and efficient devices such as lenses which can be used to amplify or attenuate acoustics passively. Uses for these include targeted alarm clocks and reducing noise pollution in areas of high road traffic.&lt;/p&gt;
+
+&lt;p&gt;The idea for this project originates from previous work done as preparation for a problem in the 2016 &lt;a href=&#34;http://iypt.org/Home&#34; target=&#34;_blank&#34;&gt;International Young Physicists&amp;rsquo; Tournament&lt;/a&gt;. The problem was:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Fresnel lenses with concentric rings are widely used in optical applications, however a similar principle can be used to focus acoustic waves. Design and produce an acoustic lens and investigate its properties, such as amplification, as a function of relevant parameters.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;The full report and sample code is available at the top of this page.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanical Random Number Generator</title>
+      <link>http://bh-cho.me/talk/invent-yourself/</link>
+      <pubDate>Tue, 28 Jun 2016 17:00:00 +1000</pubDate>
+      
+      <guid>http://bh-cho.me/talk/invent-yourself/</guid>
+      <description>&lt;p&gt;Random numbers are extremely difficult to generate. This project focused on designing a &lt;em&gt;mechanical&lt;/em&gt; random number generator (RNG) as well as statistically analysing both the degree of randomness and the ability to detect tampering.&lt;/p&gt;
+
+&lt;p&gt;The webcam shown in the schematics was connected to my computer, running a program I wrote in C++ using the &lt;a href=&#34;https://opencv.org&#34; target=&#34;_blank&#34;&gt;OpenCV&lt;/a&gt; library. Every 500 milliseconds, the colour of the highest, leftmost ball was recorded with empty frames disregarded. The colour is recorded in binary, 0 coding for red and 1 for green. Taking a certain number of bits allows the generation of larger numbers. For example, taking three bits of data gives numbers between 0 (000) and 7 (111).&lt;/p&gt;
+
+&lt;p&gt;Several methods of tampering were considered, including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Altering lighting conditions to change what colour balls the camera sees&lt;/li&gt;
+&lt;li&gt;Changing the shape of the balls&lt;/li&gt;
+&lt;li&gt;Changing the mass of the balls&lt;/li&gt;
+&lt;li&gt;Removing a number of balls of one colour&lt;/li&gt;
+&lt;li&gt;Changing the total number of balls in the RNG&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This project was originally presented at the 2016 &lt;a href=&#34;http://iypt.org/Home&#34; target=&#34;_blank&#34;&gt;International Young Physicists&amp;rsquo; Tournament&lt;/a&gt;. The problem was:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Truly random numbers are a very valuable and rare resource. Design, produce, and test a mechanical device for producing random numbers. Analyse to what extent the randomness produced is safe against tampering&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;The slides presented are available at the top of this page.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
